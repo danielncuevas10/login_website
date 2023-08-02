@@ -1,0 +1,1 @@
+This is a landing page that is working as an example.
